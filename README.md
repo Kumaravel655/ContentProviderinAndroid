@@ -1,6 +1,6 @@
-# SendSMSusingIntent
-
-# Ex.No:3 Create Your Own Content Providers to get Contacts details.
+### EX NO: 03
+### DATE: 
+# <p align="center">Send SMS using Intent</p>
 
 
 ## AIM:
