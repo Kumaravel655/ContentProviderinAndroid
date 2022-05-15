@@ -1,7 +1,6 @@
 ### EX NO: 03
 ### DATE: 
-# <p align="center">Send SMS using Intent</p>
-
+# <p align="center">Get Contacts Details</p>
 
 ## AIM:
 
